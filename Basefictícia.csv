@@ -1,0 +1,36 @@
+frase,entidade,inicio,fim,tipo
+"Maria Souza anunciou que OpenAI lançará uma nova versão do ChatGPT em 2025, durante um evento em São Paulo.","Maria Souza",0,11,PER
+"Maria Souza anunciou que OpenAI lançará uma nova versão do ChatGPT em 2025, durante um evento em São Paulo.","OpenAI",23,29,ORG
+"Maria Souza anunciou que OpenAI lançará uma nova versão do ChatGPT em 2025, durante um evento em São Paulo.","ChatGPT",54,60,PROD
+"Maria Souza anunciou que OpenAI lançará uma nova versão do ChatGPT em 2025, durante um evento em São Paulo.","2025",64,68,DATA
+"Maria Souza anunciou que OpenAI lançará uma nova versão do ChatGPT em 2025, durante um evento em São Paulo.","São Paulo",93,102,LOC
+"João Pereira anunciou que Prefeitura de São Paulo lançará uma nova versão do Bard em janeiro de 2025, durante um evento em Rio de Janeiro.","João Pereira",0,12,PER
+"João Pereira anunciou que Prefeitura de São Paulo lançará uma nova versão do Bard em janeiro de 2025, durante um evento em Rio de Janeiro.","Prefeitura de São Paulo",23,46,ORG
+"João Pereira anunciou que Prefeitura de São Paulo lançará uma nova versão do Bard em janeiro de 2025, durante um evento em Rio de Janeiro.","Bard",72,76,PROD
+"João Pereira anunciou que Prefeitura de São Paulo lançará uma nova versão do Bard em janeiro de 2025, durante um evento em Rio de Janeiro.","janeiro de 2025",80,95,DATA
+"João Pereira anunciou que Prefeitura de São Paulo lançará uma nova versão do Bard em janeiro de 2025, durante um evento em Rio de Janeiro.","Rio de Janeiro",120,134,LOC
+"Ana Costa anunciou que Google Brasil lançará uma nova versão do Gemini em 2023, durante um evento em Recife.","Ana Costa",0,9,PER
+"Ana Costa anunciou que Google Brasil lançará uma nova versão do Gemini em 2023, durante um evento em Recife.","Google Brasil",23,36,ORG
+"Ana Costa anunciou que Google Brasil lançará uma nova versão do Gemini em 2023, durante um evento em Recife.","Gemini",61,67,PROD
+"Ana Costa anunciou que Google Brasil lançará uma nova versão do Gemini em 2023, durante um evento em Recife.","2023",71,75,DATA
+"Ana Costa anunciou que Google Brasil lançará uma nova versão do Gemini em 2023, durante um evento em Recife.","Recife",100,106,LOC
+"Lucas Silva anunciou que Banco Central lançará uma nova versão do Copilot em fevereiro de 2024, durante um evento em Curitiba.","Lucas Silva",0,11,PER
+"Lucas Silva anunciou que Banco Central lançará uma nova versão do Copilot em fevereiro de 2024, durante um evento em Curitiba.","Banco Central",23,36,ORG
+"Lucas Silva anunciou que Banco Central lançará uma nova versão do Copilot em fevereiro de 2024, durante um evento em Curitiba.","Copilot",61,68,PROD
+"Lucas Silva anunciou que Banco Central lançará uma nova versão do Copilot em fevereiro de 2024, durante um evento em Curitiba.","fevereiro de 2024",72,88,DATA
+"Lucas Silva anunciou que Banco Central lançará uma nova versão do Copilot em fevereiro de 2024, durante um evento em Curitiba.","Curitiba",113,121,LOC
+"Carla Mendes anunciou que Universidade de Brasília lançará uma nova versão do Llama em 2024, durante um evento em Belo Horizonte.","Carla Mendes",0,12,PER
+"Carla Mendes anunciou que Universidade de Brasília lançará uma nova versão do Llama em 2024, durante um evento em Belo Horizonte.","Universidade de Brasília",23,48,ORG
+"Carla Mendes anunciado que Universidade de Brasília lançará uma nova versão do Llama em 2024, durante um evento em Belo Horizonte.","Llama",74,79,PROD
+"Carla Mendes anunciou que Universidade de Brasília lançará uma nova versão do Llama em 2024, durante um evento em Belo Horizonte.","2024",83,87,DATA
+"Carla Mendes anunciou que Universidade de Brasília lançará uma nova versão do Llama em 2024, durante um evento em Belo Horizonte.","Belo Horizonte",112,126,LOC
+"Rafael Lima anunciou que Petrobras lançará uma nova versão do Bard em 2023, durante um evento em Fortaleza.","Rafael Lima",0,11,PER
+"Rafael Lima anunciou que Petrobras lançará uma nova versão do Bard em 2023, durante um evento em Fortaleza.","Petrobras",23,31,ORG
+"Rafael Lima anunciou que Petrobras lançará uma nova versão do Bard em 2023, durante um evento em Fortaleza.","Bard",57,61,PROD
+"Rafael Lima anunciou que Petrobras lançará uma nova versão do Bard em 2023, durante um evento em Fortaleza.","2023",65,69,DATA
+"Rafael Lima anunciou que Petrobras lançará uma nova versão do Bard em 2023, durante um evento em Fortaleza.","Fortaleza",94,103,LOC
+"Paula Rocha anunciou que OpenAI lançará uma nova versão do Copilot em janeiro de 2025, durante um evento em Brasília.","Paula Rocha",0,11,PER
+"Paula Rocha anunciou que OpenAI lançará uma nova versão do Copilot em janeiro de 2025, durante um evento em Brasília.","OpenAI",23,29,ORG
+"Paula Rocha anunciou que OpenAI lançará uma nova versão do Copilot em janeiro de 2025, durante um evento em Brasília.","Copilot",54,61,PROD
+"Paula Rocha anunciou que OpenAI lançará uma nova versão do Copilot em janeiro de 2025, durante um evento em Brasília.","janeiro de 2025",65,80,DATA
+"Paula Rocha anunciou que OpenAI lançará uma nova versão do Copilot em janeiro de 2025, durante um evento em Brasília.","Brasília",105,113,LOC
