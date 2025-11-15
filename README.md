@@ -19,59 +19,10 @@ O objetivo principal era testar a adequação do modelo `pt_core_news_sm` para e
 
 ## 🚀 Como Executar o Projeto
 
-Você pode replicar esta análise seguindo os passos abaixo.
-
-### 1. Pré-requisitos
-
-* Python 3.8+
-* Git
-
-### 2. Instalação
-
-1.  Clone este repositório:
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
-    ```
-
-2.  Crie e ative um ambiente virtual (recomendado):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows: venv\Scripts\activate
-    ```
-
-3.  Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  Baixe o modelo spaCy utilizado no estudo:
-    ```bash
-    python -m spacy download pt_core_news_sm
-    ```
-
-### 3. Execução
-
-1.  Inicie o servidor Jupyter:
-    ```bash
-    jupyter notebook
-    ```
-2.  No seu navegador, abra o arquivo `Extração contextual.ipynb`.
-3.  Você pode executar todas as células ("Run All") para ver os resultados sendo gerados em tempo real.
-
----
-
-## 📦 Conteúdo do Repositório
-
-* **`Extração contextual.ipynb`**: O Jupyter Notebook contendo todo o processo de carregamento, execução do modelo, comparação e geração de métricas.
-* **`Basefictícia.csv`**: O conjunto de dados (gabarito) usado para avaliar o modelo.
-* **`requirements.txt`**: A lista de bibliotecas Python necessárias para rodar o projeto.
 
 ## 📊 Resultados Detalhados
 
 O Relatório de Classificação final, que fundamenta a conclusão do estudo, foi o seguinte:
-
-````
 
 ```
           precision    recall  f1-score   support
@@ -96,18 +47,3 @@ weighted avg      0.458     0.531     0.462        32
 * Realizar *fine-tuning* (ajuste fino) em modelos Transformers (ex: BERTimbau) com dados de domínio específico.
 * Validar os modelos em bases de dados reais (notícias, documentos jurídicos) para testar a generalização.
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
-
-### Arquivo `requirements.txt`
-
-Para completar o repositório, crie um arquivo chamado `requirements.txt` e coloque o seguinte conteúdo nele:
-
-```
-pandas
-spacy==3.8.0
-scikit-learn
-matplotlib
-notebook
-```
