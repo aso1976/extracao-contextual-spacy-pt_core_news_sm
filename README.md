@@ -17,9 +17,6 @@ O objetivo principal era testar a adequação do modelo `pt_core_news_sm` para e
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-
 ## 📊 Resultados Detalhados
 
 O Relatório de Classificação final, que fundamenta a conclusão do estudo, foi o seguinte:
