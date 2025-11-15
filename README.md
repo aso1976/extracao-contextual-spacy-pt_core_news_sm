@@ -1,4 +1,3 @@
-````markdown
 # Avaliação do spaCy (pt_core_news_sm) para NER em Português
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
@@ -100,9 +99,6 @@ weighted avg      0.458     0.531     0.462        32
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
-```
-
------
 
 ### Arquivo `requirements.txt`
 
