@@ -33,14 +33,8 @@ O Relatório de Classificação final, que fundamenta a conclusão do estudo, fo
 accuracy                          0.531        32
 ```
 
-macro avg      0.367     0.425     0.370        32
-weighted avg      0.458     0.531     0.462        32
-
-```
-
 ## 📚 Trabalhos Futuros
 
 * Comparar o desempenho com modelos maiores (`md` e `lg`) da spaCy.
 * Realizar *fine-tuning* (ajuste fino) em modelos Transformers (ex: BERTimbau) com dados de domínio específico.
 * Validar os modelos em bases de dados reais (notícias, documentos jurídicos) para testar a generalização.
-
